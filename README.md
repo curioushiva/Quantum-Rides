@@ -12,9 +12,9 @@ _**Quantum Rides** is a futuristic and sleek car marketplace designed for next-g
 ## Technologies Used
 This website is built using :
 
-> HTML – Structuring the content
-> CSS – Styling with modern design principles
-> JavaScript – Adding interactivity
+- HTML – Structuring the content
+- CSS – Styling with modern design principles
+- JavaScript – Adding interactivity
 
 ## Website 
 
